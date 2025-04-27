@@ -7,6 +7,6 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xyroz
 ‎Section:NewLabel("click")
 ‎
 ‎Section:NewButton("click", "justclick", function()
-‎    
+‎  loadstring(game:HttpGet("https://raw.githubusercontent.com/xyrozz764/Traitor-hub/refs/heads/main/Init.lua..."))()  
 ‎end)
 ‎
